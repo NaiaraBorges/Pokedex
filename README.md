@@ -13,7 +13,6 @@
 - [Material-UI](https://material-ui.com/pt/)
 - [Axios](https://www.npmjs.com/package/axios)
 - [React Router](https://reactrouter.com/)
-- [Firebase](https://console.firebase.google.com/)
 - [PokeApi](https://pokeapi.co/)
 
 
@@ -24,7 +23,6 @@
   $ yarn create react-app pokedex
   $ yarn add react-router-dom
   $ yarn add @material-ui/core
-  $ yarn add firebase
   $ npm i axios
 
 ```
